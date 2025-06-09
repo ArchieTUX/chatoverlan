@@ -61,7 +61,7 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 ---
 
-Made with 🔥 by \[YourName] — leveling up LAN chat one byte at a time.
+Made with 🔥 by Adithya — leveling up LAN chat one byte at a time.
 
 *Ready to dominate your network? Let’s go.*
 
